@@ -5,7 +5,7 @@
     "version": "1.0",
     "url": "https://github.com/diklios5768/scoop-backup-pwsh/releases/download/v1.0/scoop-backup-v1.0.zip",
     "hash": "a0fc69272efad3ee097f39fa9aa4b0cc2e6a7f2d7b78b1cb990a28b435146199",
-    "extract_dir": "scoop-backup-pwsh",
+    "extract_dir": "scoop-backup.ps1",
     "bin": "scoop-backup-pwsh.ps1",
     "persist": "backups",
     "checkver": {
