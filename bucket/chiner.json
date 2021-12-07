@@ -5,7 +5,7 @@
     "license": "MulanPubL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gitee.com/link?target=http%3A%2F%2Fchiner-release.httpchk.com%2FCHINER-win_v3.5.6.rar#/dl.7z",
+            "url": "https://gitee.com/link?target=http%3A%2F%2Fchiner-release.httpchk.com%2FCHINER-win_v3.5.6.rar",
             "hash": "2331a48310e0105590b2da86400668e8273c1e3c5b8d209e1b5272c1c69622e0"
         }
     },
