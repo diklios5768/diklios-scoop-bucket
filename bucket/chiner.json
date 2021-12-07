@@ -5,8 +5,8 @@
     "license": "MulanPubL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gitee.com/link?target=http%3A%2F%2Fchiner-release.httpchk.com%2FCHINER-win_v3.5.6.rar",
-            "hash": "2331a48310e0105590b2da86400668e8273c1e3c5b8d209e1b5272c1c69622e0"
+            "url": "https://gitee.com/link?target=http%3A%2F%2Fchiner-release.httpchk.com%2FCHINER-win_v3.5.6.rar#/dl.7z",
+            "hash": "1aa0ec884f228ff3f16e7f84ed3113ef292f0212679e069cee71fa854346c854"
         }
     },
     "bin": [
@@ -14,8 +14,8 @@
     ],
     "shortcuts": [
         [
-            "CHINER元数建模.exe",
-            "CHINER元数建模",
+            "元数建模.exe",
+            "元数建模",
             "CHINER.exe",
             "CHINER"
         ]
