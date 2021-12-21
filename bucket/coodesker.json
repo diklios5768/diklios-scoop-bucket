@@ -1,10 +1,10 @@
 {
-    "version": "1.0.0.39",
+    "version": "1.0.1.1",
     "description": "Coodesker helps you organize your PC by automatically placing your shortcuts and icons into resizable shaded areas on your desktop called boxes. Coodesker will always be free to users.",
     "homepage": "https://github.com/coodesker/coodesker-desktop",
     "license": "Proprietary",
-    "url": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.39/Coodesker-Portable-x64_1.0.0.39.zip#/dl.7z",
-    "hash": "45be8821c80db12f4c7a12c8f332987d0c39c457712303b9c79a577f3463a554",
+    "url": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.1.1/Coodesker-Portable-x64_1.0.1.1.zip#/dl.7z",
+    "hash": "15438323bd9e724d4f621ffed1cf980811066d32348c12a29abf6c95a5cefc55",
     "bin": "coodesker-x64.exe",
     "shortcuts": [
         [
