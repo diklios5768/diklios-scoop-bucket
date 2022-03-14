@@ -4,7 +4,7 @@
     "license": "MIT",
     "version": "2022.01.05",
     "url": "https://github.com/diklios5768/scoop-backup/releases/download/v2022.01.05/scoop-backup-knox-v2022.01.05.zip#/dl.7z",
-    "hash": "6e4595a2d6b89c1253c82a821e888ff8c1242f407ef9431797497b840afe82b3",
+    "hash": "daf44a370563a044bd3509b5f21115cc58490d68a8cf1c315cc63ae283be7733",
     "bin": "scoop-backup-knox.ps1",
     "persist": "backups",
     "checkver": {
