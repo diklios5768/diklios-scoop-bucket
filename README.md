@@ -24,4 +24,4 @@
 
 - autodarkmode 使用微软商店下载即可
 - typora 使用 sapps 库即可
-- scoop-backup 原库已经完全修复，可以直接使用
+- scoop-backup 原库已经完全修复 bug，可以直接使用，但是由于一些的问题，基本无法下载安装成功，可以搜索其他库的备份，大部分都用的是 knox-scoop 库的脚本，可能也无法安装成功，也可以使用本库的备份版本**scoop-backup-knox**
